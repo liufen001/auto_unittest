@@ -1,0 +1,5 @@
+2018-08-02 10:13:48,513 log_utils.py[line:36] ERROR     : ========> 测试执行开始 <=======
+2018-08-02 10:13:48,780 log_utils.py[line:42] WARNING   : test2执行开始
+2018-08-02 10:14:27,299 log_utils.py[line:39] INFO      : 页面加载成功
+2018-08-02 10:14:27,454 log_utils.py[line:42] WARNING   : test2执行结束
+2018-08-02 10:14:28,667 log_utils.py[line:36] ERROR     : ========> 测试执行结束 <=======

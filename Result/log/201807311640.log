@@ -1,0 +1,7 @@
+2018-07-31 16:40:09,200 log_utils.py[line:36] ERROR     : ========> 测试执行开始 <=======
+2018-07-31 16:40:09,358 log_utils.py[line:42] WARNING   : test1执行开始
+2018-07-31 16:40:34,601 log_utils.py[line:36] ERROR     : 页面找不到对象
+2018-07-31 16:40:34,603 log_utils.py[line:42] WARNING   : test2执行开始
+2018-07-31 16:40:53,273 log_utils.py[line:39] INFO      : 页面加载成功
+2018-07-31 16:40:53,473 log_utils.py[line:42] WARNING   : test2执行结束
+2018-07-31 16:40:54,605 log_utils.py[line:36] ERROR     : ========> 测试执行结束 <=======
